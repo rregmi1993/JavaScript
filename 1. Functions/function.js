@@ -15,6 +15,6 @@ const getName = function(fName, lName) => {'${fName} ${lName}'};
 
 //Generator 
 function* getFirstName(){
-    yield "Ram"
+    yield "Ram";
 }
 
